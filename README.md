@@ -1,3 +1,3 @@
 # demo_git
 Learning Git With World Annex  
-Author - Ketan Zinzuvadiya
+Author - World Annex Infotech
